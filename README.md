@@ -1,5 +1,5 @@
 # DevOneGymqb
-🚴‍♂️💪 Este script ofrece un gimnasio realista para servidores de FiveM, permitiendo a los jugadores entrenar y mejorar su personaje con un sistema interactivo y progresivo. Incluye:  Estaciones de ejercicios con animaciones específicas. Sistema de estadísticas (fuerza, resistencia) y escalado visual del personaje. Interacciones con props
+🚴‍♂️💪 Este script ofrece un gimnasio realista para servidores de FiveM, permitiendo a los jugadores entrenar y mejorar su personaje con un sistema interactivo y progresivo. Incluye:  Estaciones de ejercicios con animaciones específicas. Escalado visual del personaje. Interacciones con props
 1. Arquitectura del Script:
 
 Modularidad: El script se divide en módulos claros: inicialización, detección de interacciones, lógica de ejercicios y progresión del jugador.
