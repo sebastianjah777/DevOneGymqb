@@ -32,3 +32,5 @@ Sincronización: Datos almacenados en la base de datos mediante eventos del serv
 Uso eficiente de eventos del cliente y del servidor para minimizar el impacto en el rendimiento del servidor.
 Estrategias para evitar redundancias en la detección de props y animaciones.
 Esta estructura asegura escalabilidad, realismo y una experiencia inmersiva para los jugadores.
+
+prev : https://youtu.be/SljHDe06sos
