@@ -5,6 +5,7 @@
 Modularidad: El script se divide en módulos claros: inicialización, detección de interacciones, lógica de ejercicios y progresión del jugador.
 Compatibilidad: Integra sistemas como qb-core, qb-target, y ox-target para la detección de zonas de interacción.
 NUICallback: Se utiliza para manejar interacciones personalizadas a través de interfaces HTML/CSS, como registros de progreso y estadísticas.
+
 2. Funciones Principales:
 
 Detección de Props:
